@@ -1,1 +1,9 @@
 Gods
+
+* FIRST
+..* RIGHT HAND
+..* LEFT HAND
+..*	RIGHT LEG
+..* LEFT LEG
+
+
