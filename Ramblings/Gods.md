@@ -2,15 +2,21 @@
 
 ## Main Pantheon
 * FIRST (Whole Body)
-  * RIGHT HAND (Crafts, War)
-  * LEFT HAND (Arts, Diplomacy, Merchants)
-  *	RIGHT LEG (Land Travel, Hunting)
-  * LEFT LEG (Sea Travel, Messengers(?))
+  * Arms (Crafts, Merchants, Artists)
+    * RIGHT HAND (Soldiers)
+    * LEFT HAND (Diplomats)
+  *	Legs (Travellers, Messengers, Sailors)
+    * RIGHT LEG
+    * LEFT LEG
   
 ## Other Gods
 * The Raven Queen
 
 ## Celestial Visitors/Beings
-* The Wanderer
+* The Wanderer (Chaos, Magic)
 
+## Religeous Groups
 
+### FIRST (parts as usurpers)
+
+### PARTS (parts as benefactors)
