@@ -1,16 +1,27 @@
 # Gods
 
+## Domains
+~Trickery~
+Life
+~War~
+Light
+~Knowledge~
+Tempest
+~Death~
+~Nature~
+
+
 ## Main Pantheon
 * FIRST (Whole Body)
-  * Arms (Crafts, Merchants, Artists)
-    * RIGHT HAND (Soldiers)
-    * LEFT HAND (Diplomats)
-  *	Legs (Travellers, Messengers, Sailors)
+  * Arms 
+    * RIGHT HAND (War, Nature)
+    * LEFT HAND (Trickery, Knowledge)
+  *	Legs
     * RIGHT LEG
     * LEFT LEG
   
 ## Other Gods
-* The Raven Queen
+* The Raven Queen (Death)
 
 ## Celestial Visitors/Beings
 * The Wanderer (Chaos, Magic)
