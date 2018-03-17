@@ -1,30 +1,31 @@
 # Gods
 
 ## Domains
-~Trickery~
-Life
-~War~
-Light
-~Knowledge~
-Tempest
+~Arcana~
 ~Death~
-~Nature~
-
+~Forge~
+Grave
+~Knowledge~
+Life
+~Light~
+Nature
+Tempest
+~Trickery~
+~War~
 
 ## Main Pantheon
-* FIRST (Whole Body)
-  * Arms 
-    * RIGHT HAND (War, Nature)
-    * LEFT HAND (Trickery, Knowledge)
-  *	Legs
-    * RIGHT LEG
-    * LEFT LEG
+* FIRST (Arcana)
+  * HANDS (Forge, Nature)
+    * RIGHT HAND (War)
+    * LEFT HAND (Trickery)
+  * RIGHT EYE (Light)
+  * LEFT EYE (Knowledge, Grave)
   
 ## Other Gods
 * The Raven Queen (Death)
 
-## Celestial Visitors/Beings
-* The Wanderer (Chaos, Magic)
+## Demi Gods and Celestial Beings
+* The Wanderer (Chaos, Arcana)
 
 ## Religeous Groups
 
