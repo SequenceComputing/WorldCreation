@@ -16,11 +16,11 @@
 * ??? (Death)
 
 ## Religeous Groups
-Main group - follows main pantheon
+Main group - Worship HANDS/EYES
 
-Main group extremists - follow FIRST, believe HANDS and EYES are usurpers
+Main group extremists - follow FIRST, believe HANDS and EYES are usurpers/murderers
 
-Raven Queen followers - Rooks and Coots
+Raven Queen followers - Rooks (Priests) and Coots (Acolytes), perform burial rites
 
 Followers for each Demigod
 
