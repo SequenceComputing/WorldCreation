@@ -17,6 +17,7 @@
 
 ## Religeous Groups
 Main group - follows main pantheon
+
 Main group extremists - follow FIRST, believe HANDS and EYES are usurpers
 
 Raven Queen followers - Rooks and Coots
