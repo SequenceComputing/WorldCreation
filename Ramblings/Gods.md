@@ -1,17 +1,17 @@
 # Gods
 
 ## Main Pantheon
-* FIRST (Arcana) [Theodorthe, Ansund, Eorman, Gehal, Hal]
-  * HANDS (Forge, Nature)
-    * RIGHT HAND (War)
-    * LEFT HAND (Trickery)
+* FIRST (Arcana, Life) [Theodorthe, Ansund, Eorman, Gehal, Hal, Wahl]
+  * HANDS (Forge, Nature) [Braad, Folm]
+    * RIGHT HAND (War) [Mund]
+    * LEFT HAND (Trickery) [Fengnes, Winstre]
   * RIGHT EYE (Light, Life)
-  * LEFT EYE (Knowledge)
+  * LEFT EYE (Knowledge, Tempest)
 
 * The Raven Queen (Grave)
 
 ## Demi Gods and Worshipped Beings
-* The Wanderer (Chaos, Arcana)
+* Dwolma, The Wanderer (Chaos, Arcana)
 * The Mother (Nature, Tempest)
 * ??? (Death)
 
