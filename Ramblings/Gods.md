@@ -1,7 +1,7 @@
 # Gods
 
 ## Main Pantheon
-* FIRST (Arcana)
+* FIRST (Arcana) [Theodorthe, Ansund, Eorman, Gehal, Hal]
   * HANDS (Forge, Nature)
     * RIGHT HAND (War)
     * LEFT HAND (Trickery)
