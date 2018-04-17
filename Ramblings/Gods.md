@@ -1,12 +1,12 @@
 # Gods
 
 ## Main Pantheon
-* FIRST (Arcana, Life) [Theodorthe, Ansund, Eorman, Gehal, Hal, Wahl]
-  * HANDS (Forge, Nature) [Braad, Folm]
-    * RIGHT HAND (War) [Mund]
-    * LEFT HAND (Trickery) [Fengnes, Winstre]
-  * RIGHT EYE (Light, Life)
-  * LEFT EYE (Knowledge, Tempest)
+* Ansund, He of the World (Arcana, Life) 	[Theodorthe, Ansund, Eorman, Gehal, Hal, Wahl]
+  * Folm, The Hands as One (Forge, Nature) 	[Braad, Folm]
+    * Mund, The Right Hand (War) 			[Mund]
+    * Fengnes, The Left Hand (Trickery) 	[Fengnes, Winstre]
+  * RIGHT EYE (Light, Life)					[]
+  * LEFT EYE (Knowledge, Tempest)			[]
 
 * The Raven Queen (Grave)
 
@@ -26,9 +26,8 @@ Followers for each Demigod
 
 ## Mythos
 ### Creation Story
-FIRST creates the world from his body:
-* Skull is sky
+Ansund cuts off hands and instructs them creates the world from his body:
 * Flesh and Blood are land and sea
 * Eyes are Moon and Sun
 * Spine is mountains
-* Hands craft the world from the parts
+* Skull is sky
