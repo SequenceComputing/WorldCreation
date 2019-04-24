@@ -1,4 +1,4 @@
-	# Gods of Ansundia
+# Gods of Ansundia
 
 ## Main Pantheon
 * Ansund, Of the World 
