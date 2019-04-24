@@ -1,34 +1,44 @@
 # Gods of Ansundia
 
 ## Main Pantheon
-* Ansund, He of the World (Arcana, Life) 	[Theodorthe, Ansund, Eorman, Gehal, Hal, Wahl]
-  * Folm, The Hands as One (Forge, Nature) 	[Braad, Folm]
-    * Mund, The Right Hand (War) 			[Mund]
-    * Fengnes, The Left Hand (Trickery) 	[Fengnes, Winstre]
-  * RIGHT EYE (Light, Life)					[]
-  * LEFT EYE (Knowledge, Tempest)			[]
+* Ansund, He of the World 
+  * Folm, The Hands as One (Life)
+    * Mund, The Right Hand (Forge/War)
+    * Feng, The Left Hand (Tempest/Trickery)
+  *Seon, The Eyes as One (Arcana)
+	* Wálá, The  Right Eye (Light/Nature (Wild))
+	* Tung, the Left Eye (Knowledge/Nature (Agriculture))
 
-* The Raven Queen (Grave)
+* The Raven Queen (Death/Grave)
 
-## Demi Gods and Worshipped Beings
-* Dwolma, The Wanderer (Chaos, Arcana)
-* The Mother (Nature, Tempest
-)
-* ??? (Death)
+## Celestials and Other Worshipped Beings
+* Dwolma, The Wanderer (Arcana)
+* (Death)
+* (Forge)
+* (Grave)
+* (Knowledge)
+* (Life)
+* (Light)
+* The Mother (Nature)
+* (Tempest)
+* (Trickery)
+* (War)
+* Daenor, Lord of the Fey
+
 
 ## Sanctioned Religeous Groups
-Folmists - Worship Folm/EYES
+Folmists - Worship Folm & Seon
 
 ### Demigod Groups
 Raven Queen followers - Rooks (Priests) and Coots (Acolytes), perform burial rites
 The Children of Ansund (Followers of the Mother)
 
 ## Heretical Religeous Groups
+Ansundians - worship Ansund, believe Folm and Seon are usurpers/murderers
 
-Ansundians - follow Ansund, believe Folm and EYES are usurpers/murderers
 
 ### Heretical Demigod groups
-Dwolmans
+Dwolmen - (Followers of Dwolma)
 
 
 ## Mythos
@@ -36,5 +46,5 @@ Dwolmans
 Ansund cuts off hands and instructs them creates the world from his body:
 * Flesh and Blood are land and sea
 * Eyes are Sun (Right) and Moon (Left)
-* Spine is (Named) Mountains
+* Teeth are Mountains
 * Skull is sky
