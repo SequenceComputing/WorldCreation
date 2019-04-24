@@ -6,13 +6,13 @@
     * Mund, The Right Hand (Forge/War)
     * Feng, The Left Hand (Tempest/Trickery)
   *Seon, The Eyes as One (Arcana)
-	* Wálá, The  Right Eye (Light/Nature (Wild))
+	* Wala, The  Right Eye (Light/Nature (Wild))
 	* Tung, the Left Eye (Knowledge/Nature (Agriculture))
 
 * The Raven Queen (Death/Grave)
 
 ## Celestials and Other Worshipped Beings
-* Dwolma, The Wanderer (Arcana)
+* Dwolma, The Wanderer (Arcana) (CN)
 * (Death)
 * (Forge)
 * (Grave)
@@ -35,7 +35,6 @@ The Children of Ansund (Followers of the Mother)
 
 ## Heretical Religeous Groups
 Ansundians - worship Ansund, believe Folm and Seon are usurpers/murderers
-
 
 ### Heretical Demigod groups
 Dwolmen - (Followers of Dwolma)
